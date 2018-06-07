@@ -1,9 +1,10 @@
 #Xiu签
 
-* [Github]()
+* [Github](https://github.com/MISSZQ/XiuQian)
 * [HostedRedmine](http://10.7.1.5/projects/android_xiu/wiki)
 
 ### 项目简介
+### 项目功能介绍
 ### 项目成员
 * 王寅达（项目经理、开发工程师）
   * Email: <1733220383@qq.com>
