@@ -28,3 +28,5 @@
   * Email:<njsunnan@outlook.com>
   * Github:[https://github.com/MISSZQ](https://github.com/MISSZQ)
 ### 运行效果
+<img src="image/.png" width=250 height=400/>
+
