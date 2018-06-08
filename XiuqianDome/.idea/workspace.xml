@@ -94,8 +94,8 @@
       <file leaf-file-name="applicationContext.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/WEB-INF/applicationContext.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="48" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+            <state relative-caret-position="146">
+              <caret line="62" column="8" lean-forward="true" selection-start-line="62" selection-start-column="8" selection-end-line="62" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -198,24 +198,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView">
-        <subPane>
-          <expand>
-            <path>
-              <item name="XiuqianDome" type="1abcf292:AndroidViewProjectNode" />
-              <item name="XiuQianDome" type="e9137016:NonAndroidModuleNode" />
-            </path>
-            <path>
-              <item name="XiuqianDome" type="1abcf292:AndroidViewProjectNode" />
-              <item name="XiuQianDome" type="e9137016:NonAndroidModuleNode" />
-              <item name="java" type="f7eae187:NonAndroidSourceTypeNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -259,6 +241,24 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="XiuqianDome" type="1abcf292:AndroidViewProjectNode" />
+              <item name="XiuQianDome" type="e9137016:NonAndroidModuleNode" />
+            </path>
+            <path>
+              <item name="XiuqianDome" type="1abcf292:AndroidViewProjectNode" />
+              <item name="XiuQianDome" type="e9137016:NonAndroidModuleNode" />
+              <item name="java" type="f7eae187:NonAndroidSourceTypeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -454,15 +454,17 @@
       <workItem from="1528121142432" duration="1202000" />
       <workItem from="1528156986810" duration="6392000" />
       <workItem from="1528243273260" duration="2757000" />
-      <workItem from="1528265961475" duration="3345000" />
+      <workItem from="1528265961475" duration="4552000" />
+      <workItem from="1528350776612" duration="1673000" />
+      <workItem from="1528415544116" duration="895000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="158913000" />
+    <option name="totallyTimeSpent" value="162688000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -484,11 +486,11 @@
       <window_info anchor="bottom" id="Java Enterprise" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4969743" visible="true" weight="0.43069306" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4969743" visible="true" weight="0.43069306" />
       <window_info anchor="bottom" id="Spring" order="7" sideWeight="0.49924356" weight="0.19306931" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info id="Persistence" order="2" sideWeight="0.13333334" side_tool="true" visible="true" weight="0.21028744" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8666667" visible="true" weight="0.21028744" />
+      <window_info id="Persistence" order="2" sideWeight="0.13333334" side_tool="true" visible="true" weight="0.21633889" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8666667" visible="true" weight="0.21633889" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -828,8 +830,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/applicationContext.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="48" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+        <state relative-caret-position="146">
+          <caret line="62" column="8" lean-forward="true" selection-start-line="62" selection-start-column="8" selection-end-line="62" selection-end-column="8" />
         </state>
       </provider>
     </entry>
